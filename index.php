@@ -2,5 +2,5 @@
 
     echo "<strong>Olá mundo456!</strong>";
 
-    echo "ola udemy!"
+    echo "Olá Hcode e Olá udemy!"
 ?>
